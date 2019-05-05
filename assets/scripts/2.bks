@@ -1,0 +1,24 @@
+[text show]
+【Me】
+Good...finally[p]
+Screw the rule that the temperature of AC should always be above 26 degree[p]
+What's the worst that could happen?[p]
+....??[p]
+[bg file='rule/r_12.png']
+....???[p]
+[bg file='fg/lis.png']
+..........[p]
+What..what happened..[p]
+
+This..this can't be true..[p]
+......[p]
+[bg file='fg/lis2.jpeg']
+What‘s going on……？[p]
+.......[p]
+....![p]
+[fg file='fg/imaghe.png']
+【???】
+Do you know what's the cause of this? [p]
+The rain.. and the storm?[p]
+
+[router push path='/choice']

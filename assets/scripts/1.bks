@@ -1,0 +1,10 @@
+[bg file='common/room1.png']
+[text show]
+【Me】
+..Ah...[p]
+It's so hot………………[p]
+Is the AC even on???[p]
+[fg file='common/ac2.jpg']
+Isn't doing much of its work now is it?[p]
+What temperature should I set it to?[p]
+[router push path='/choicee']
